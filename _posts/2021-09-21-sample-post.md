@@ -10,4 +10,7 @@ background: '/img/posts/01.jpg'
 What do we know so far? Primarily, object oriented programming: the C family, Python, and Java. This is an intuitive method of programming, allowing users to compartmentalize and track their objects, which helps make their code easier to read. This is quite helpful when it comes to managing data, but with regards to presenting said data, it falls a bit short. It's a bit hard to build a website without some knowledge of front-end development.
 
 ## The Webpage
-It is in progress. Stay tuned!
+It is in progress, and the Contact page does not exactly work yet. Stay tuned for updates!
+
+## Miscellaneous
+If you look below, you will find links to various methods of either contacting or finding out more about me. Please reach out with any questions or comments!
