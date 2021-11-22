@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Introduction"
-subtitle: "You need to start somewhere"
+subtitle: "A bit of background on this webpage"
 date: 2021-08-31 10:45:13 -0400
 background: '/img/posts/01.jpg'
 ---
